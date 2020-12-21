@@ -38,6 +38,8 @@ module.exports = {
         siteUrl: process.env.SITEURL || config.siteUrl,
     },
     plugins: [
+
+        `gatsby-plugin-postcss`,
         /**
          *  Content Plugins
          */
