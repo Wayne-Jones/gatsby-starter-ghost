@@ -6,5 +6,13 @@
   "production": {
     "apiUrl": "https://gatsby.ghost.io",
     "contentApiKey": "9cc5c67c358edfdd81455149d0"
+  },
+  "Gatsby": {
+    "apiUrl": "https://ghost-blog-app.herokuapp.com",
+    "contentApiKey": "0a98de7001047807e6feede0bd"
+  },
+  "Netlify": {
+    "apiUrl": "https://ghost-blog-app.herokuapp.com",
+    "contentApiKey": "992d33b0f5b8c20f5aa853cafe"
   }
 }
